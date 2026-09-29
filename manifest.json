@@ -1,0 +1,29 @@
+{
+  "name": "Mis Tareas — Lista de Tareas PWA",
+  "short_name": "Mis Tareas",
+  "description": "Organiza tus tareas diarias. Funciona offline como Progressive Web App.",
+  "lang": "es",
+  "dir": "ltr",
+
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    }
+  ],
+
+  "start_url": "./index.html",
+  "scope": "./",
+
+  "display": "standalone",
+  "orientation": "portrait-primary",
+
+  "background_color": "#0f0e17",
+  "theme_color": "#6c63ff",
+
+  "categories": ["productivity", "utilities"],
+
+  "screenshots": []
+}
